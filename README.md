@@ -14,4 +14,11 @@ Ce projet porte sur le traitement et l'analyse exploratoire d'un dataset massif 
 
 * Bibliothèques : Pandas (manipulation), NumPy (calculs), Matplotlib/Seaborn (visualisation)
 
-* Environnement : VS Code, Jupyter Notebook
+* Environnement : VS Code, Jupyter Notebook 
+
+## 🚀 Comment lancer le projet
+1. Cloner le dépôt : git clone https://github.com/Ibrah-git/Projet_Livraison 
+
+2. Installer les dépendances : pip install pandas matplotlib seaborn
+
+3. Lancer le notebook ou le script : python main.py ou python main.ipynb
